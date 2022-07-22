@@ -21,8 +21,8 @@ The dataset is a combination of 4 multi-turn dialogue datasets:
 ## Tokenization and Translation
   - The English dataset was tokenized using the [GPT2 Tokenizer](https://huggingface.co/gpt2).
   - The Arabic dataset was tokenized using the [AraGPT2 Tokenizer](https://huggingface.co/aubmindlab/aragpt2-base).
-  - The translation from English to Arabic was done using [Opus-MT](https://huggingface.co/Helsinki-NLP/opus-mt-ar-en) on [Colab](https://colab.research.google.com/drive/1d-ynR5qfv22zRwRs3QNLKC8-s0ux2PRC?usp=sharing)
-  - The preprocessing and loading details of the data can be found on [Anees repository](https://github.com/aashrafh/Anees)
+  - The translation from English to Arabic was done using [Opus-MT](https://huggingface.co/Helsinki-NLP/opus-mt-ar-en) on [Colab](https://colab.research.google.com/drive/1d-ynR5qfv22zRwRs3QNLKC8-s0ux2PRC?usp=sharing).
+  - The preprocessing and loading details of the data can be found on [Anees repository](https://github.com/aashrafh/Anees).
   
 ## References
   - Li, Y., Su, H., Shen, X., Li, W., Cao, Z., & Niu, S. (2017). Dailydialog: A manually labelled multi-turn dialogue dataset. arXiv preprint arXiv:1710.03957. https://arxiv.org/abs/1710.03957.
