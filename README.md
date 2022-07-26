@@ -4,7 +4,7 @@ The dataset used to fine-tune the GPT-2 model used in Anees for the multi-turn d
 ## Introduction
 The dataset is a combination of 4 multi-turn dialogue datasets:
   - DailyDialog: a high-quality multi-turn open-domain English dialog dataset. On average there are around 8 speaker turns per dialogue with around 15 tokens per turn.
-  - EmpatheticDialogues: a large-scale multi-turn empathetic dialogue dataset collected on the Amazon Mechanical Turk, containing 24,850 one-to-one open-domain conversations.
+  - EmpatheticDialogues: a large-scale multi-turn empathetic dialogue dataset collected on Amazon Mechanical Turk, containing 24,850 one-to-one open-domain conversations.
   - Persona-Chat: crowd-sourced dialogues where each participant plays the part of an assigned persona; and each persona has a word-distinct paraphrase.
   - BlendedSkillTalk: an English-language dataset blending three conversation skills in balanced proportions (demonstrating knowledge, empathy, or ability to talk about oneself).
 
